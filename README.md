@@ -33,7 +33,7 @@ Prerequisites :-
 Setup Instructions :
 1. Clone the Repository -->
 2. 
-   -- [git clone https://github.com/your-repo/spring-boot-product-api.git](https://github.com/chiranjiv09/edstruments-assess.git)
+   -- [https://github.com/chiranjiv09/edstruments-assess.git]
    
    -- cd edstruments-assess
    
